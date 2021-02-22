@@ -2,7 +2,7 @@
 home: true
 heroImage: /logo.png
 heroText: Vue.js
-tagline: Ilg'or<br> JavaScript kutubxonasi
+tagline: Ilg'or darajadagi<br> JavaScript kutubxonasi
 actionButtons:
   - text: Nega Vue.js?
     link: /
@@ -26,7 +26,7 @@ features:
       Tezkor Virtual DOM<br>
       Minimal darajada optimallashgan
 footer: |
-  <a href="https://opensource.org/licenses/MIT" target="_blank" rel="noopener">MIT Litsenziyasi</a><br> ostida chiqarilgan.
+  <a href="https://opensource.org/licenses/MIT" target="_blank" rel="noopener">MIT Litsenziyasi</a> ostida chiqarilgan.<br>
   Copyright © 2014-2020 Evan You. Uzbek version by Otabek Sadiridinov.
 socialIcons:
   - type: GitHub
