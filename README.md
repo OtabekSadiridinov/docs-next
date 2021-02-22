@@ -1,4 +1,4 @@
-# v3.vuejs.uz.netlify.app
+# https://vuejsuz.netlify.app/
 
 Ushbu veb-sayt [VuePress](https://vuepress.vuejs.org/) yordamida tuzilgn. Saytning ma'lumotlari `src` papkasida joylashtirilgan holatda Markdown markup tili yordamida tuzilgan.
 
