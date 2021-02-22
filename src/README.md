@@ -2,13 +2,13 @@
 home: true
 heroImage: /logo.png
 heroText: Vue.js
-tagline: The Progressive<br> JavaScript Framework
+tagline: Ilg'or<br> JavaScript kutubxonasi
 actionButtons:
-  - text: Why Vue.js?
+  - text: Nega Vue.js?
     link: /
     extraClass: vuemastery-trigger primary
     icon: fa fa-play-circle
-  - text: Get Started
+  - text: Boshlash
     link: /guide/introduction
   - text: GitHub
     link: https://github.com/vuejs/vue-next
@@ -16,18 +16,18 @@ actionButtons:
     icon: fa fa-github
     target: _blank
 features:
-  - title: Approachable
-    details: Already know HTML, CSS and JavaScript? Read the guide and start building things in no time!
-  - title: Versatile
-    details: An incrementally adoptable ecosystem that scales between a library and a full-featured framework.
-  - title: Performant
+  - title: Yetakchi
+    details: HTML, CSS va JavaScript-ni allaqachon bilasizmi? Qo'llanmani o'qing va qisqa vaqt ichida narsalarni qurishni boshlang!
+  - title: Serqirra
+    details: Kutubxona va butun tizim o'rtasida oson kengayuvchi, bosqichma-bosqich qabul qilinadigan ekotizim.
+  - title: Ijrochi
     details: |
-      20KB min+gzip Runtime<br>
-      Blazing Fast Virtual DOM<br>
-      Minimal Optimization Efforts
+      20KB min+gzip ishga tushishs vaqti<br>
+      Tezkor Virtual DOM<br>
+      Minimal darajada optimallashgan
 footer: |
-  Released under the <a href="https://opensource.org/licenses/MIT" target="_blank" rel="noopener">MIT License</a><br>
-  Copyright © 2014-2020 Evan You
+  <a href="https://opensource.org/licenses/MIT" target="_blank" rel="noopener">MIT Litsenziyasi</a><br> ostida chiqarilgan.
+  Copyright © 2014-2020 Evan You. Uzbek version by Otabek Sadiridinov.
 socialIcons:
   - type: GitHub
     link: https://github.com/vuejs/vue-next
