@@ -26,7 +26,7 @@ export default {
 
   computed: {
     heading () {
-      return `Special Sponsor${this.sponsors.length === 1 ? '' : 's'}`
+      return `Maxsus homiy${this.sponsors.length === 1 ? '' : 'lar'}`
     }
   }
 }

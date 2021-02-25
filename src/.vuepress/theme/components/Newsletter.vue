@@ -1,7 +1,11 @@
 <template>
   <div class="newsletter">
     <div class="inner">
-      <h3><label for="member_email">Subscribe to our Weekly Newsletter</label></h3>
+      <h3>
+        <label for="member_email">
+          Haftalik xabarnomamizga obuna bo'ling
+        </label>
+      </h3>
       <form
         class="newsletter-form"
         id="revue-form"
@@ -17,25 +21,28 @@
           name="member[email]"
           id="member_email"
           required
-          placeholder="Email address"
-        >
+          placeholder="Email manzilingiz"
+        />
         <input
           class="button newsletter-button"
           type="submit"
-          value="Subscribe"
+          value="Obuna bo'lish"
           name="member[subscribe]"
           id="member_submit"
-        >
+        />
       </form>
       <p>
-        You can read the previous issues and listen to our podcast at <a href="https://news.vuejs.org" target="_blank" rel="noopener">news.vuejs.org</a>.
+        Avvalgi sonlarni o'qib, podkastimizni quyidagi manzilda tinglashingiz mumkin
+        <a href="https://news.vuejs.org" target="_blank" rel="noopener"
+          >news.vuejs.org</a
+        >.
       </p>
     </div>
   </div>
 </template>
 
 <style lang="scss" scoped>
-@import "@theme/styles/_settings.scss";
+@import '@theme/styles/_settings.scss';
 
 .newsletter {
   text-align: center;

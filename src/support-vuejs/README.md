@@ -23,8 +23,7 @@ Recurring pledges come with exclusive perks, e.g. having your name listed in the
 
 ## Current Premium Sponsors
 
-### Special Sponsors
-
+### Maxsus hamkorlar
 <support-SponsorGroup group="special_sponsors" class="platinum" />
 
 ### Platinum
@@ -35,7 +34,7 @@ Recurring pledges come with exclusive perks, e.g. having your name listed in the
 
 <support-OpenCollectiveGroup group="platinum" />
 
-### Special Sponsors (China)
+### Maxsus homiylar (Xitoy)
 
 <support-SponsorGroup group="platinum_sponsors_china" class="platinum" />
 
